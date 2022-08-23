@@ -1,13 +1,13 @@
-# Remix K-pop Stack
+# Gtps.Finance
 
-![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
+![Gtps.Finance site image]([https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GTPS%20256X256.png?ver=1660140135672]()
 
-Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
+Deployed Site: [kpop-stack.netlify.app](gtpsfinance)
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ```
-npx create-remix --template netlify-templates/kpop-stack
+npx create-remix --template netlify-templates/gtpsfinance
 ```
 
 Click this button to create a new Github repo, new Netlify project and deploy this stack to a [CDN](https://jamstack.org/glossary/cdn/).
